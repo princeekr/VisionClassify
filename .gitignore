@@ -12,7 +12,7 @@ outputs/saved_models/
 *.h5
 
 # Do not upload the raw datasets
-data/
+/data/
 
 # IDEs and OS files
 .vscode/
