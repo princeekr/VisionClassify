@@ -1,0 +1,21 @@
+# Python / Machine Learning ignores
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Do NOT upload huge trained models to GitHub!
+outputs/saved_models/
+*.keras
+*.h5
+
+# Do not upload the raw datasets
+data/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
